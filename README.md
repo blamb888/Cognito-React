@@ -1,14 +1,14 @@
 # aws-cognito-react - v2
+![image](https://user-images.githubusercontent.com/3223329/156154180-9d54909f-6a14-4714-8865-007a7f6c489f.png)
 
 ![signin](./logo.png)
-
-If you are looking for v1 version it can be found on the legacy branch. With the release of v2, v1 is no longer supported
 
 Reference implementation / boilerplate for AWS Cognito user management
 
 ## Demo
 
 [aws-cognito-react-demo](http://aws-cognito-react.s3-website-us-west-2.amazonaws.com/)
+<br>
 [aws-cognito-hosted-UI](https://demoappurlflagship.auth.ap-northeast-1.amazoncognito.com/login?client_id=2bd9p8t8u5bca3g0bot73v6p14&response_type=code&scope=aws.cognito.signin.user.admin+email+openid+phone+profile&redirect_uri=https://www.example.com/cb)
 
 ## v2 Changes
