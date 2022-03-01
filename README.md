@@ -7,8 +7,6 @@ Reference implementation / boilerplate for AWS Cognito user management
 
 ## Demo
 
-[aws-cognito-react-demo](http://aws-cognito-react.s3-website-us-west-2.amazonaws.com/)
-<br>
 [aws-cognito-hosted-UI](https://demoappurlflagship.auth.ap-northeast-1.amazoncognito.com/login?client_id=2bd9p8t8u5bca3g0bot73v6p14&response_type=code&scope=aws.cognito.signin.user.admin+email+openid+phone+profile&redirect_uri=https://www.example.com/cb)
 
 ## v2 Changes
