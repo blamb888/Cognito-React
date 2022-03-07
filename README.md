@@ -1,8 +1,6 @@
 # aws-cognito-react - v2
 ![image](https://user-images.githubusercontent.com/3223329/156154180-9d54909f-6a14-4714-8865-007a7f6c489f.png)
 
-![signin](./logo.png)
-
 Reference implementation / boilerplate for AWS Cognito user management
 
 ## Demo
